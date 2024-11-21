@@ -1,2 +1,4 @@
-# Digital_image_processing_by_Matlab
-《数字图像处理》代码
+# 数字图像处理
+
+- 作 者：李俊山
+- 版 本：2021年8月 第四版
